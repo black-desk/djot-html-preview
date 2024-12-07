@@ -1,0 +1,11 @@
+# Djot html preview
+
+This is a simple github pages site
+that allows you to preview Djot files in html format.
+
+## Usage
+
+Specify the url of the Djot file you want to preview in the `url` query parameter.
+For example:
+
+<https://black-desk.github.io/djot-html-preview?url=https://github.com/black-desk/djot-html-preview/blob/master/README.dj>
